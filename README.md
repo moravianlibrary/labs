@@ -1,2 +1,2 @@
 # labs
-Library labs
+Moravian Library labs web pages
