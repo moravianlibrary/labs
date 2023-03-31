@@ -54,8 +54,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/zikus/OneDrive/Dokumenty/GitHub/labs.mzk.cz%20-%20NEW"
+    "publishType": "mbrsite",
+    "publishPath": "file:///C:/Users/zikus/OneDrive/Dokumenty/GitHub/labs.mzk.cz",
+    "mbrsite": "mbrsite://%7B%22id%22%3A294371%2C%22domain%22%3A%22kk56516ybj.mobirisesite.com%22%7D"
   },
   "pages": {
     "index.html": {
