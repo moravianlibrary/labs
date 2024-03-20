@@ -34,7 +34,7 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "name": "portfolioM4",
+    "name": "LABS",
     "versionFirst": "5.9.6",
     "siteFonts": [
       {
@@ -53,7 +53,7 @@
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/mzk-128x107_2.png",
-    "mbrsiteDomain": "qjx54vvgx4",
+    "mbrsiteDomain": "oubqn8bzp0",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
