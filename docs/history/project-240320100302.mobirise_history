@@ -53,7 +53,7 @@
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/mzk-128x107_2.png",
-    "mbrsiteDomain": "oubqn8bzp0",
+    "mbrsiteDomain": "rdlgfuhe5x",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -62,7 +62,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///C:/Users/MZK/Desktop/labs"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {

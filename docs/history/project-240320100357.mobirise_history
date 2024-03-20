@@ -62,7 +62,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishType": "local",
-    "publishPath": "file:///C:/Users/MZK/Desktop/labs"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
